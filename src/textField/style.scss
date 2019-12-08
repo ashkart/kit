@@ -1,0 +1,12 @@
+.label {
+  display: flex;
+  flex-flow: row;
+
+  .label-text {
+    justify-self: flex-start;
+  }
+
+  .input {
+    color: #222222;
+  }
+}
